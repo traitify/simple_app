@@ -1,0 +1,9 @@
+{
+	"name": "traitify/simpleapp",
+	"description": "SimpleApp",
+	"keywords": ["Framework", "SimpleApp"],
+	"license": "MIT",
+	"require": {
+      "traitify/client": "dev-master"
+  }
+}

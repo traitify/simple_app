@@ -1,0 +1,72 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "b3957b50d732028d0bae61993ffb55bb",
+    "packages": [
+        {
+            "name": "traitify/client",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/traitify/traitify-php.git",
+                "reference": "5513d416b95f17d022d70516d67fa13d3cc16240"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/traitify/traitify-php/zipball/5513d416b95f17d022d70516d67fa13d3cc16240",
+                "reference": "5513d416b95f17d022d70516d67fa13d3cc16240",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.3.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Traitify": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Carson Wright",
+                    "email": "carsonnwright@gmail.com",
+                    "homepage": "https://www.traitify.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A library for consuming Traitify Api.",
+            "homepage": "http://www.traitify.com",
+            "keywords": [
+                "api",
+                "client",
+                "personality",
+                "traitify"
+            ],
+            "time": "2014-08-01 18:15:31"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "traitify/client": 20
+    },
+    "prefer-stable": false,
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
